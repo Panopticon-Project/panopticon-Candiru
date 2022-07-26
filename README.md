@@ -7,3 +7,5 @@ https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-
 https://therecord.media/report-mercenary-spyware-exploited-google-chrome-zero-day-to-target-journalists/
 
 https://decoded.avast.io/janvojtesek/the-return-of-candiru-zero-days-in-the-middle-east/
+
+https://www.securityweek.com/chrome-flaw-exploited-israeli-spyware-firm-also-impacts-edge-safari
